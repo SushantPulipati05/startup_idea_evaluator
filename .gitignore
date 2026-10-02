@@ -1,0 +1,65 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# ── Dependencies ─────────────────────────────
+node_modules/
+
+# ── Expo / Metro ─────────────────────────────
+.expo/
+.expo-shared/
+dist/
+web-build/
+expo-env.d.ts
+.metro-health-check*
+
+# ── Generated native folders (created by `expo prebuild`) ──
+/ios
+/android
+.kotlin/
+
+# ── Build outputs (share APKs via Drive, don't commit them) ──
+*.apk
+*.aab
+*.ipa
+build/
+
+# ── Signing keys & secrets (never commit these) ──
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.pem
+*.mobileprovision
+google-services.json
+GoogleService-Info.plist
+.env
+.env.*
+!.env.example
+
+# ── Logs & debug ─────────────────────────────
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.orig.*
+
+# ── TypeScript ───────────────────────────────
+*.tsbuildinfo
+
+# ── Test coverage ────────────────────────────
+coverage/
+
+# ── OS files ─────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ── Editors / IDEs ───────────────────────────
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.swp
+
+# ── Local scratch (screenshots/files saved by Claude) ──
+Claude outputs/

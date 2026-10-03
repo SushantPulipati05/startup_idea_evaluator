@@ -2,7 +2,8 @@
 
 A React Native (Expo) app where users pitch startup ideas, get a (fun, fake) AI rating, upvote other ideas, and see a live leaderboard.
 
-> 📱 **APK:** _add your Google Drive link here_
+> 📱 **APK:** [Download from Google Drive](https://drive.google.com/file/d/1OPVzNIYl8eMekH6qtQscUeQmKeP3UFr9/view?usp=sharing)
+>
 > 🎥 **Walkthrough video:** _add your Loom / YouTube link here_
 
 ---
@@ -102,8 +103,10 @@ Scan the QR code with Expo Go (Android) or the Camera app (iOS). Press `a` for a
 
 ## 📦 Install the APK (Android)
 
-1. Download the APK from the link at the top of this README.
+1. Download the APK: **[Google Drive link](https://drive.google.com/file/d/1OPVzNIYl8eMekH6qtQscUeQmKeP3UFr9/view?usp=sharing)**
 2. Open it on your Android phone and allow "Install unknown apps" if prompted.
+
+> ⚠️ Android shows a standard "file might be harmful" warning for any APK downloaded outside the Play Store. Tap **Download anyway**, then **More details → Install anyway** if Google Play Protect asks.
 
 ### Building the APK yourself
 

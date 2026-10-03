@@ -25,6 +25,12 @@
     },
     "plugins": [
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c7db4f6f-46e9-411c-9539-a573232094ba"
+      }
+    },
+    "owner": "sushantpulipati"
   }
 }

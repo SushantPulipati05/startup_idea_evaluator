@@ -4,7 +4,7 @@ A React Native (Expo) app where users pitch startup ideas, get a (fun, fake) AI 
 
 > 📱 **APK:** [Download from Google Drive](https://drive.google.com/file/d/1OPVzNIYl8eMekH6qtQscUeQmKeP3UFr9/view?usp=sharing)
 >
-> 🎥 **Walkthrough video:** _add your Loom / YouTube link here_
+> 🎥 **Walkthrough video:** [Watch on Google Drive](https://drive.google.com/file/d/1l_7Fwp24U7xTSYqxs6IKESv3Nv8qNgVL/view?usp=sharing)
 
 ---
 
